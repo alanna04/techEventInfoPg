@@ -1,0 +1,56 @@
+body, 
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: #864a4a2c;
+    font-family: 'Montserrat', sans-serif;
+    background: url("img/pexels-andrea-piacquadio-806835.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.promo-section {
+    background-color: #ffffff46;
+}
+
+
+
+h1 {
+    font-weight: 700;
+    color: #473145;
+    font-size: 3rem;
+
+}
+
+.main-headline {
+    font-weight: 700;
+    
+}
+
+
+.btn-main {
+    border: none;
+    padding: 1rem 2rem;
+    font-weight: 700;
+    border-radius: 10px;
+    background-color: #81587d;
+    color: #ffffff;
+}
+
+hr {
+    border-color: #c482bd;
+    border-width: 3px;
+    max-width: 400px;
+}
+
+.btn-main:hover{
+    border: none;
+    background-color: #473145;
+}
+
+.buffer {
+    height: 2rem;
+}
